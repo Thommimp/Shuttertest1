@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334290110930",
+    "project_id": "pcshutter-a853d",
+    "storage_bucket": "pcshutter-a853d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334290110930:android:af4b3326f27aa2c0d5200b",
+        "android_client_info": {
+          "package_name": "com.example.realshit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334290110930-glpos8l25t276krp0gipcdo0631chgud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realshit",
+            "certificate_hash": "4a5d6bbaf4126f6419dd957b5b3109ead49b7acc"
+          }
+        },
+        {
+          "client_id": "334290110930-qogssoh4d8if5gdfih7j669p2k7iimhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp8ybxIzH8Z-gwoEenOF-e5a8aZ2v5HG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334290110930-qogssoh4d8if5gdfih7j669p2k7iimhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
